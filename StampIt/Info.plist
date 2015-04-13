@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>StampIt!</string>
+	<key>Beacon uuid</key>
+	<string>54BE582C-70BD-4735-B4F2-CDD4D78DD590</string>
+	<key>Beacon identifer</key>
+	<string>OreBeacon</string>
+	<key>Tournament ID</key>
+	<string>1</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
